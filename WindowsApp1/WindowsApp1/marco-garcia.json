@@ -1,0 +1,15 @@
+
+{
+  "firstName": "Marco",
+  "lastName": "Garcia",
+  "email": "marco.garcia@gmail.com",
+  "phoneNumber": "09092132423",
+  "gender": "Male",
+  "birthDay": "October 24, 1996",
+  "address": "20 Diamond Lane, Brgy Culiat, Quezon City",
+  "objective": "To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.",
+  "course": "Bachelor of Science in Computer Engineering",
+  "school": "Polytechnic University of the Philippines",
+  "skillOne": "SAP",
+  "skillTwo": "Coding"
+}
